@@ -1,0 +1,2 @@
+# DarkCold
+GTK+ dark theme
