@@ -79,7 +79,7 @@
 
 
 /* FIXME: needs dark colors from here */
-@define-color link_color #CC0000;
+@define-color link_color #0998ED;
 @define-color warning_color #f57900;
 @define-color error_color #cc0000;
 @define-color success_color #4e9a06;

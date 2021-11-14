@@ -38,7 +38,7 @@ style "default"{
 	xthickness	= 2
 	ythickness	= 2
 
-	GtkWidget::link-color = "#CC0000"
+	GtkWidget::link-color = "#0998ED"
 	GtkEntry::cursor_color			= "#ffffff"
 	GtkTextView::cursor_color		= "#ffffff"
 	GtkTextView::secondary_cursor_color	= "#ffffff"
