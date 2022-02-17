@@ -1,5 +1,5 @@
 /* XPM */
-static char * bottom_left_active_xpm[] = {
+static char * bottom_left_inactive_xpm[] = {
 "16 16 2 1",
 " 	c None",
 ".	c #000000",

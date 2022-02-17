@@ -1,9 +1,8 @@
 /* XPM */
-static char * left_active_xpm[] = {
-"5 5 2 1",
+static char * left_inactive_xpm[] = {
+"5 5 1 1",
 " 	c #000000",
-".	c #010101",
-"   . ",
+"     ",
 "     ",
 "     ",
 "     ",
