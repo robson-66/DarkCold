@@ -14,5 +14,7 @@ package() {
   cd $srcdir
   mv DarkCold $pkgdir/usr/share/themes/
   
+  find $pkgdir/usr -type f -exec chmod 644 {} \;
+  find $pkgdir/usr -type d -exec chmod 755 {} \;
   find $pkgdir/usr -type f -name '.directory' -delete
 }
