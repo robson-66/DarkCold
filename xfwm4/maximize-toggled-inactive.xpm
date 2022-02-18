@@ -1,5 +1,5 @@
 /* XPM */
-static char * menu_prelight_xpm[] = {
+static char * maximize_toggled_inactive_xpm[] = {
 "25 27 23 1",
 " 	c #000000",
 ".	c #737173",
