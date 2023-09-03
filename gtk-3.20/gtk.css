@@ -1134,7 +1134,7 @@ button.flat {
     border-image: url("darkelements/button-normal-border.png") 2 2 2 2 / 2px 2px 2px 2px stretch stretch;
     border-width:2px;
 	background-size: 100% 100%;
-	background-color: transparent
+	background-color: transparent;
 }
 
 button.flat.hover {
@@ -1264,7 +1264,7 @@ button:focus {
     border-image: url("darkelements/button-normal-border.png") 2 2 2 2 / 2px 2px 2px 2px stretch stretch;
     border-width:2px;
 	background-size: 100% 100%;
-	background-color: transparent
+	background-color: transparent;
 }
 
 button:disabled,
@@ -1369,7 +1369,6 @@ border:solid;
 .linked button:checked:hover:first-child,
 .linked button:checked:hover:active:first-child,
 .linked button:disabled:first-child {
-;
 }
 
 .linked entry:first-child {
@@ -3616,7 +3615,6 @@ treeview header button:last-child:focus,
 treeview header button:last-child:checked,
 treeview header button:last-child:hover:active,
 treeview header button:last-child:active:focus {
-;
 }
 
 row,
